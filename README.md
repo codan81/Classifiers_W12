@@ -19,6 +19,7 @@ in the machine learning process I went through diferent stages as  fitting the m
 ## Technologies
 
 This setup assumes you already have conda installed.
+
 This project leverages python 3.7 with the following packages:
 
 ![Imbalannced Classes Classifiers prompts](images/import_modules.png)
@@ -26,6 +27,17 @@ This project leverages python 3.7 with the following packages:
 
 ---
 
+## Results
+
+* Machine Learning Model 1:
+  * Description of Model 1 Accuracy, Precision, and Recall scores.
+
+
+
+* Machine Learning Model 2:
+  * Description of Model 2 Accuracy, Precision, and Recall scores.
+
+---
 ## Contributors
 
 Israel Fernandez
